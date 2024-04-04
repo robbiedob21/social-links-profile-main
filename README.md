@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/robbiedob21/social-links-profile-main](https://github.com/robbiedob21/social-links-profile-main)
+- Live Site URL: [https://robbiedob21-social-links.netlify.app/](https://robbiedob21-social-links.netlify.app/)
 
 ## My process
 
